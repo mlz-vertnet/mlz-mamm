@@ -1,0 +1,105 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 66
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 7
+	Date: 2014-09-09 ; Times: 4
+	Date: 2014-09-10 ; Times: 2
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-20 ; Times: 1
+	Date: 2014-09-21 ; Times: 2
+	Date: 2014-09-22 ; Times: 5
+	Date: 2014-09-23 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "nasua nasua" ; Times: 3
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "genus nasua" ; Times: 1
+	Query: "Sylvilagus" ; Times: 1
+	Query: "nasua" ; Times: 5
+	Query: "NASUA" ; Times: 1
+	Query: "lynx rufus tissue" ; Times: 5
+	Query: "Nasua nasua" ; Times: 2
+	Query: "felis concolor concolor" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 7
+	Query: "class:Mammalia lutra" ; Times: 3
+	Query: "class:Mammalia lutra lutra" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 164 download events in this period)
+Total number of records downloaded: 1451 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 743
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-03 ; Times: 1
+	Date: 2014-09-04 ; Times: 1
+	Date: 2014-09-11 ; Times: 2
+	Date: 2014-09-12 ; Times: 3
+	Date: 2014-09-15 ; Times: 2
+	Date: 2014-09-17 ; Times: 1
+	Date: 2014-09-20 ; Times: 1
+	Date: 2014-09-22 ; Times: 3
+	Date: 2014-09-23 ; Times: 4
+	Date: 2014-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sorex" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 2
+	Query: "peromyscus" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Sorex saussurei" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "NASUA" ; Times: 1
+	Query: "mammalia AND Oregon" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:fuscipes genus:neotoma" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "mammalia AND California" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "nasua" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 181
+Total number of records retrieved from searches: 481
+Number of download events that retrieved data from the resource: 168
+Total number of records downloaded: 4719
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 181
+Total number of records retrieved from searches: 481
+Number of download events that retrieved data from the resource: 217
+Total number of records downloaded: 6073
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
