@@ -1,0 +1,70 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for November, 2014, generated on 2014/12/23
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-16 ; Times: 1
+	Date: 2014-11-23 ; Times: 2
+	Date: 2014-11-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sylvilagus brasiliensis" ; Times: 3
+	Query: "Morelia" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 178 download events in this period)
+Total number of records downloaded: 75 (out of 878465 records downloaded for all resources in this period)
+Total number of unique records downloaded: 75
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-06 ; Times: 1
+	Date: 2014-11-10 ; Times: 1
+	Date: 2014-11-12 ; Times: 3
+	Date: 2014-11-24 ; Times: 2
+	Date: 2014-11-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"puebla" country:"Mexico" year <= 2010" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis" ; Times: 1
+	Query: "county:"Dona Ana" stateprovince:"New Mexico" class:Mammalia year >= 1700 year <= 2014" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "type:specimen county:"Riverside" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "Didelphis virginiana type:specimen mappable:1" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "Morelia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 203
+Total number of records retrieved from searches: 699
+Number of download events that retrieved data from the resource: 198
+Total number of records downloaded: 5054
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 203
+Total number of records retrieved from searches: 699
+Number of download events that retrieved data from the resource: 247
+Total number of records downloaded: 6408
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
