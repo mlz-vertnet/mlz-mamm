@@ -1,0 +1,89 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-05 ; Times: 4
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "specificepithet:curtatus genus:Lemmiscus (Skeleton)" ; Times: 1
+	Query: "skin "mephitis mephitis" type:specimen" ; Times: 1
+	Query: "eutamias" ; Times: 1
+	Query: "bassariscus" ; Times: 1
+	Query: "genus:Didelphis year >= 1700 year <= 1970" ; Times: 1
+	Query: "mormoops" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 298 download events in this period)
+Total number of records downloaded: 2231 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1428
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-16 ; Times: 3
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-23 ; Times: 4
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Peromyscus maniculatus AND (NOT Mexico) year >= 1950 year <= 2000 mappable:1" ; Times: 1
+	Query: "mammalia stateprovince:"QUERETARO" country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Colima mammals" ; Times: 1
+	Query: "mammalia stateprovince:"guanajuato" country:"mexico" year <= 2015 mappable:1" ; Times: 2
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 246
+Total number of records retrieved from searches: 842
+Number of download events that retrieved data from the resource: 71
+Total number of records downloaded: 3989
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 349
+Total number of records retrieved from searches: 1116
+Number of download events that retrieved data from the resource: 339
+Total number of records downloaded: 10452
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
