@@ -1,0 +1,117 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 539
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 3
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 61
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 5
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-11 ; Times: 50
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rufus genus:lynx family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Sciurus alleni" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "genus:sigmodon" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Glaucomys sabrinus distance(location,geopoint(34.22088697429015,-116.97418212890625))&lt;21123" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 8
+	Query: "urocyon cinereoargenteus MEXICO" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 50
+	Query: "Sciurus aureogaster" ; Times: 4
+	Query: "Cerro Mohinora" ; Times: 2
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "SCIURUS DEPPEI VERACRUZ" ; Times: 1
+	Query: "felidae genus:Lynx family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "Sylvilagus insonus" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 1
+	Query: "PHILANDER OPOSSUM MEXICO" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 823 download events in this period)
+Total number of records downloaded: 1922
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 5
+	Country: Italy ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 7
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rufus genus:lynx family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "odocoileus virginianus mexico" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "class:Mammalia" ; Times: 2
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Spilogale putorius" ; Times: 1
+
+
+End of report.
