@@ -1,0 +1,220 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 209
+Number of records retrieved in searches: 722
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 151
+	Country: Unknown ; Times: 13
+	Country: Mexico ; Times: 43
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 8
+	Date: 2015-09-10 ; Times: 24
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-13 ; Times: 3
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-15 ; Times: 5
+	Date: 2015-09-16 ; Times: 9
+	Date: 2015-09-17 ; Times: 8
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-08 ; Times: 28
+	Date: 2015-09-30 ; Times: 17
+	Date: 2015-09-02 ; Times: 4
+	Date: 2015-09-19 ; Times: 7
+	Date: 2015-09-07 ; Times: 9
+	Date: 2015-09-06 ; Times: 5
+	Date: 2015-09-05 ; Times: 17
+	Date: 2015-09-04 ; Times: 7
+	Date: 2015-09-03 ; Times: 10
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-24 ; Times: 3
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-26 ; Times: 4
+	Date: 2015-09-21 ; Times: 5
+	Date: 2015-09-20 ; Times: 13
+	Date: 2015-09-23 ; Times: 9
+	Date: 2015-09-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Osgoodomys banderanus" ; Times: 1
+	Query: "genus:didelphis virginiana mappable:1" ; Times: 3
+	Query: "Didelphis" ; Times: 1
+	Query: "thomomys mexico" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 5
+	Query: "distance(location,geopoint(24.4802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "Sylvilagus" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus stateprovince:&#34;California&#34; institutioncode:MLZ mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "Sciurus oculatus" ; Times: 2
+	Query: "distance(location,geopoint(24.6802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 5
+	Query: "Lasiurus cinereus" ; Times: 8
+	Query: "sylvilagus floridanus hidalgo" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Otospermophilus beecheyi type:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:deserti genus:Dipodomys stateprovince:&#34;California&#34; institutioncode:MLZ mappable:1" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 5
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34; institutioncode:MLZ mappable:1" ; Times: 1
+	Query: "Myotis velifer" ; Times: 3
+	Query: "Peromyscus boylii" ; Times: 2
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 6
+	Query: "Nelson country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 3
+	Query: "Sciurus alleni" ; Times: 4
+	Query: "didelphimorphia mappable:1" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus stateprovince:&#34;California&#34; institutioncode:MLZ mappable:1" ; Times: 1
+	Query: "Neotoma phenax" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "genus:Didelphis virginiana mappable:1" ; Times: 1
+	Query: "Sciurus nayaritensis " ; Times: 1
+	Query: "Philander opossum" ; Times: 2
+	Query: "Eumops perotis" ; Times: 3
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "distance(location,geopoint(20.5802369569,-105.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 4
+	Query: "didelphis virginiana" ; Times: 2
+	Query: "didelphis virginiana mappable:1" ; Times: 19
+	Query: "&#34;Didelphis Virginiana&#34;" ; Times: 1
+	Query: "dipodomys (mexico)" ; Times: 1
+	Query: "genus:felis country:&#34;Mexico&#34;" ; Times: 6
+	Query: "(Didelphis virginiana) mappable:1" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias stateprovince:&#34;California&#34; institutioncode:MLZ mappable:1" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+	Query: "&#34;Didelphis virginiana&#34; mappable:1" ; Times: 28
+	Query: "distance(location,geopoint(21.0802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.1802369569,-105.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34; institutioncode:MLZ mappable:1" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; institutioncode:MLZ mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "Chaetodipus pernix" ; Times: 1
+	Query: "Didelphis virginiana mappable:1" ; Times: 4
+	Query: "Otospermophilus variegatus" ; Times: 2
+	Query: "distance(location,geopoint(24.9802369569,-108.049505705))&lt;15000" ; Times: 1
+	Query: "&#34;Didelphis Virginiana&#34; mappable:1" ; Times: 4
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "parvula" ; Times: 2
+	Query: "Liomys pictus" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 2
+	Query: "Mormoops megalophylla" ; Times: 3
+	Query: "Sciurus aberti" ; Times: 2
+	Query: "Sciurus yucatanensis" ; Times: 2
+	Query: "distance(location,geopoint(21.0802369569,-105.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 3
+	Query: "Onychomys torridus" ; Times: 2
+	Query: "Tadarida brasiliensis" ; Times: 3
+	Query: "Spermophilus adocetus" ; Times: 2
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 2
+	Query: "distance(location,geopoint(21.0802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys stateprovince:&#34;California&#34; institutioncode:MLZ mappable:1" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 1
+	Query: "Didelphis Virginiana mappable:1" ; Times: 2
+	Query: "mammal mexico" ; Times: 1
+	Query: "tayassu tajacu (mexico) mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 1045 download events in this period)
+Total number of records downloaded: 2455
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 1
+	Country: United States ; Times: 61
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Hungary ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 5
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 14
+	Date: 2015-09-16 ; Times: 17
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 5
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-29 ; Times: 8
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;macrotus californicus&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "procyon lotor mexico" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Odocoileus virginianus country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:Mammalia" ; Times: 2
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "Mammalia" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
