@@ -1,0 +1,189 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 389
+Number of records retrieved in searches: 1672
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 162
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 207
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 6
+	Date: 2016-04-02 ; Times: 13
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 16
+	Date: 2016-04-05 ; Times: 15
+	Date: 2016-04-04 ; Times: 6
+	Date: 2016-04-21 ; Times: 12
+	Date: 2016-04-20 ; Times: 14
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-08 ; Times: 15
+	Date: 2016-04-25 ; Times: 12
+	Date: 2016-04-24 ; Times: 12
+	Date: 2016-04-27 ; Times: 43
+	Date: 2016-04-26 ; Times: 14
+	Date: 2016-04-22 ; Times: 20
+	Date: 2016-04-18 ; Times: 11
+	Date: 2016-04-19 ; Times: 11
+	Date: 2016-04-14 ; Times: 39
+	Date: 2016-04-15 ; Times: 12
+	Date: 2016-04-16 ; Times: 10
+	Date: 2016-04-17 ; Times: 13
+	Date: 2016-04-10 ; Times: 3
+	Date: 2016-04-11 ; Times: 9
+	Date: 2016-04-12 ; Times: 8
+	Date: 2016-04-13 ; Times: 6
+	Date: 2016-04-29 ; Times: 45
+	Date: 2016-04-23 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(21.779036,-105.197516))&lt;15000" ; Times: 7
+	Query: "distance(location,geopoint(23.479036,-106.387516))&lt;15000" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 81
+	Query: "(reddington)" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.537516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.707516))&lt;15000" ; Times: 2
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-105.707516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:bassariscus mappable:1" ; Times: 4
+	Query: "lutra lutra" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "distance(location,geopoint(26.539036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.537516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.537516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-107.577516))&lt;15000" ; Times: 1
+	Query: "Bassariscus type:specimen mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(20.589036,-105.197516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(25.009036,-108.087516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-106.897516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-107.747516))&lt;15000" ; Times: 1
+	Query: "genus:dasyprocta country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-105.197516))&lt;15000" ; Times: 5
+	Query: "distance(location,geopoint(25.689036,-107.577516))&lt;15000" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-105.537516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.067516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.269036,-105.027516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(21.099036,-105.027516))&lt;15000" ; Times: 5
+	Query: "Bassariscus" ; Times: 1
+	Query: "philander" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-105.877516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(22.629036,-105.877516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.707516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.067516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.649036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.707516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-107.067516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-106.897516))&lt;15000" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "mammalia nuevo leon" ; Times: 13
+	Query: "distance(location,geopoint(22.969036,-105.537516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(24.839036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-108.427516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-105.027516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(31.979036,-106.897516))&lt;15000" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.367516))&lt;15000" ; Times: 6
+	Query: "mephitis macroura" ; Times: 2
+	Query: "distance(location,geopoint(21.269036,-105.197516))&lt;15000" ; Times: 7
+	Query: "distance(location,geopoint(26.029036,-107.067516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.877516))&lt;15000" ; Times: 1
+	Query: "Bassariscus mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(25.689036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Mephitis macroura" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 173
+	Query: "distance(location,geopoint(25.689036,-106.897516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-108.087516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-107.747516))&lt;15000" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-106.897516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-110.467516))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 129 (out of 1312 download events in this period)
+Total number of records downloaded: 3671
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 85
+	Country: Unknown ; Times: 21
+	Country: Portugal ; Times: 6
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 7
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 8
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 6
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 7
+	Date: 2016-04-14 ; Times: 13
+	Date: 2016-04-15 ; Times: 15
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 8
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Urocitellus beldingi beldingi (California)" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 8
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "class:Mammalia" ; Times: 12
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
