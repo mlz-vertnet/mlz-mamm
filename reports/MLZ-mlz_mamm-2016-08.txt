@@ -1,0 +1,134 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 443
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 71
+	Country: Netherlands ; Times: 15
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-11 ; Times: 7
+	Date: 2016-08-12 ; Times: 4
+	Date: 2016-08-13 ; Times: 3
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-17 ; Times: 3
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-30 ; Times: 12
+	Date: 2016-08-31 ; Times: 12
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 15
+	Date: 2016-08-24 ; Times: 9
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-26 ; Times: 3
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-23 ; Times: 4
+	Date: 2016-08-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:alleni genus:Sciurus" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 26
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 52
+	Query: "romerolagus diazi" ; Times: 24
+	Query: "Xerospermophilus mohavensis" ; Times: 1
+	Query: "specificepithet:colliaei genus:Sciurus" ; Times: 2
+	Query: "dipodomys microps year &gt;= 1970 distance(location,geopoint(37.84015683604136,-117.1307373046875))&lt;100000" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 924 download events in this period)
+Total number of records downloaded: 2769
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Unknown ; Times: 5
+	Country: Netherlands ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 10
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 12
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-22 ; Times: 4
+	Date: 2016-08-25 ; Times: 8
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-24 ; Times: 5
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "chiroptera stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "order:Rodentia distance(location,geopoint(39.94343646197423,-115.15869140625))&lt;247312.59442489027" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "Xerospermophilus mohavensis" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
