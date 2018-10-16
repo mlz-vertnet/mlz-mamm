@@ -1,0 +1,291 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 456
+Number of records retrieved in searches: 3136
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 445
+	Country: Unknown ; Times: 2
+	Country: China ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 8
+	Date: 2018-04-28 ; Times: 5
+	Date: 2018-04-23 ; Times: 100
+	Date: 2018-04-22 ; Times: 4
+	Date: 2018-04-21 ; Times: 22
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 4
+	Date: 2018-04-26 ; Times: 9
+	Date: 2018-04-25 ; Times: 8
+	Date: 2018-04-24 ; Times: 63
+	Date: 2018-04-01 ; Times: 7
+	Date: 2018-04-03 ; Times: 9
+	Date: 2018-04-02 ; Times: 13
+	Date: 2018-04-05 ; Times: 7
+	Date: 2018-04-04 ; Times: 4
+	Date: 2018-04-07 ; Times: 5
+	Date: 2018-04-06 ; Times: 4
+	Date: 2018-04-09 ; Times: 20
+	Date: 2018-04-08 ; Times: 5
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-12 ; Times: 8
+	Date: 2018-04-13 ; Times: 8
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-11 ; Times: 4
+	Date: 2018-04-30 ; Times: 6
+	Date: 2018-04-17 ; Times: 97
+	Date: 2018-04-14 ; Times: 5
+	Date: 2018-04-15 ; Times: 6
+	Date: 2018-04-18 ; Times: 4
+	Date: 2018-04-19 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.52069952914966,-118.564453125))&lt;238853.5984503041" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "genus:Sciurus specificepithet:yucatanensis mappable:1" ; Times: 2
+	Query: "2065 Dipodomys" ; Times: 1
+	Query: "genus:Osgoodomys specificepithet:banderanus mappable:1" ; Times: 1
+	Query: "genus:Onychomys specificepithet:leucogaster mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:albigula mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:californicus mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "genus:Tamias specificepithet:merriami mappable:1" ; Times: 2
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "genus:Dasyprocta specificepithet:mexicana mappable:1" ; Times: 1
+	Query: "genus:Tlacuatzin specificepithet:canescens mappable:1" ; Times: 2
+	Query: "specificepithet:fuscipes genus:Neotoma" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "genus:Neurotrichus specificepithet:gibbsii mappable:1" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "9061" ; Times: 2
+	Query: "genus:Onychomys specificepithet:torridus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Lepus specificepithet:alleni mappable:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:mexicanus mappable:1" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:californicus mappable:1 hasmass:1" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "genus:Callospermophilus specificepithet:lateralis mappable:1 hasmass:1" ; Times: 1
+	Query: "Oryzomys couesi mappable:1" ; Times: 1
+	Query: "specificepithet:zibethicus genus:ondatra" ; Times: 2
+	Query: "genus:Caluromys specificepithet:derbianus mappable:1" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra" ; Times: 1
+	Query: "genus:Tamias specificepithet:quadrimaculatus mappable:1" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:raviventris mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Lemmiscus specificepithet:curtatus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:nayaritensis mappable:1" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:nelsoni mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:niger mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Otospermophilus specificepithet:beecheyi mappable:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:phenax mappable:1" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 53
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.16340342422401,-117.94921875))&lt;71900" ; Times: 1
+	Query: "Bassariscus astutus mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:amoenus mappable:1 hasmass:1" ; Times: 2
+	Query: "Ateles geoffroyi mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:deppei mappable:1" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:insonus mappable:1" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:pernix mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:speciosus mappable:1" ; Times: 2
+	Query: "Philander opossum mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:californicus mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tamias specificepithet:sonomae mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Bassariscus specificepithet:astutus mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:speciosus mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:griseus genus:sciurus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:artus mappable:1" ; Times: 1
+	Query: "sciurus aberti" ; Times: 2
+	Query: "genus:Ateles specificepithet:geoffroyi mappable:1" ; Times: 1
+	Query: "genus:Scapanus specificepithet:latimanus mappable:1" ; Times: 3
+	Query: "Sciurus deppei mappable:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:californicus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Perognathus specificepithet:inornatus mappable:1" ; Times: 1
+	Query: "genus:Tylomys specificepithet:nudicaudus mappable:1" ; Times: 2
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "genus:Romerolagus specificepithet:diazi mappable:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 2
+	Query: "Philander opossum" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 3
+	Query: "class:Mammalia distance(location,geopoint(42.50855241552863,-118.53424072265625))&lt;30899" ; Times: 1
+	Query: "genus:Mephitis specificepithet:macroura mappable:1" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.16340342422401,-117.94921875))&lt;100000" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:douglasii mappable:1" ; Times: 2
+	Query: "genus:Microtus specificepithet:californicus mappable:1 hasmass:1" ; Times: 1
+	Query: "Bassariscus sumichrasti mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:merriami mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:heermanni genus:dipodomys county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.553080288955805,-118.564453125))&lt;100000" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:formosus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:spilosoma mappable:1" ; Times: 2
+	Query: "genus:Urocitellus specificepithet:beldingi mappable:1 hasmass:1" ; Times: 2
+	Query: "Tlacuatzin canescens mappable:1" ; Times: 1
+	Query: "genus:Marmosa specificepithet:mexicana mappable:1" ; Times: 1
+	Query: "specificepithet:douglasii genus:tamiasciurus" ; Times: 4
+	Query: "Dickey Collection" ; Times: 1
+	Query: "order:Rodentia county:&#34;tulare&#34;" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor mappable:1" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:microps mappable:1 hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;lake&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.48323834594138,-119.75784301757812))&lt;100000" ; Times: 1
+	Query: "genus:Neotoma specificepithet:fuscipes mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Thomomys specificepithet:bottae mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:boylii mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:pectoralis mappable:1" ; Times: 1
+	Query: "genus:Otospermophilus specificepithet:beecheyi mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:trowbridgii mappable:1 hasmass:1" ; Times: 1
+	Query: "Molossus sinaloae mappable:1" ; Times: 1
+	Query: "MLZ 2065" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:eremicus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:cunicularius mappable:1" ; Times: 2
+	Query: "genus:Microdipodops specificepithet:pallidus mappable:1" ; Times: 1
+	Query: "genus:Perognathus specificepithet:parvus mappable:1 hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 6
+	Query: "genus:Baiomys specificepithet:taylori mappable:1" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "genus:Xerospermophilus specificepithet:mohavensis mappable:1" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:californicus mappable:1" ; Times: 1
+	Query: "specificepithet:Americana genus:Mazama mappable:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.474122772511485,-118.6083984375))&lt;100000" ; Times: 1
+	Query: "genus:Neotoma specificepithet:lepida mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Ondatra specificepithet:zibethicus mappable:1 hasmass:1" ; Times: 1
+	Query: "Mormoops megalophylla mappable:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis" ; Times: 1
+	Query: "genus:Spilogale specificepithet:putorius mappable:1" ; Times: 2
+	Query: "genus:Spermophilus specificepithet:tereticaudus mappable:1" ; Times: 2
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.52069952914966,-118.564453125))&lt;238854" ; Times: 1
+	Query: "genus:Urocitellus specificepithet:beldingi mappable:1" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Neotoma specificepithet:cinerea mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Orthogeomys specificepithet:hispidus mappable:1" ; Times: 1
+	Query: "Mephitis macroura mappable:1" ; Times: 2
+	Query: "Ammospermophilus leucurus mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:raviventris mappable:1" ; Times: 1
+	Query: "genus:Liomys specificepithet:irroratus mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:sonomae mappable:1" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:agilis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:sumichrasti mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:saussurei mappable:1" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:megalotis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:oculatus mappable:1" ; Times: 2
+	Query: "genus:Perognathus specificepithet:longimembris mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:heermanni mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:variegatoides mappable:1" ; Times: 2
+	Query: "genus:Thomomys specificepithet:umbrinus mappable:1" ; Times: 2
+	Query: "specificepithet:californicus genus:peromyscus" ; Times: 1
+	Query: "genus:Urocyon specificepithet:cinereoargenteus mappable:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:brasiliensis mappable:1" ; Times: 2
+	Query: "Eumops perotis" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:adocetus mappable:1" ; Times: 2
+	Query: "2065 Dipodomys deserti" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "Ondatra" ; Times: 2
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.293564192170095,-117.861328125))&lt;100000" ; Times: 1
+	Query: "artibeus aztecus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:douglasii mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:melanotis mappable:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:deserti mappable:1" ; Times: 1
+	Query: "genus:Microdipodops specificepithet:megacephalus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:panamintinus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti mappable:1" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:deserti mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:montanus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Geomys specificepithet:bursarius mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:griseus mappable:1" ; Times: 2
+	Query: "genus:Philander specificepithet:opossum mappable:1" ; Times: 1
+	Query: "Sciurus yucatanensis mappable:1" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:leucurus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:annulatus mappable:1" ; Times: 2
+	Query: "genus:Dasypus specificepithet:novemcinctus mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "genus:Cratogeomys specificepithet:castanops mappable:1 hasmass:1" ; Times: 1
+	Query: "opossum" ; Times: 1
+	Query: "genus:Mazama specificepithet:americana mappable:1" ; Times: 2
+	Query: "Orthogeomys hispidus mappable:1" ; Times: 1
+	Query: "genus:Nasua specificepithet:nasua mappable:1" ; Times: 1
+	Query: "Marmosa mexicana mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:alleni mappable:1" ; Times: 2
+	Query: "genus:Lemmiscus specificepithet:curtatus mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aureogaster mappable:1" ; Times: 2
+	Query: "genus:Spermophilus specificepithet:madrensis mappable:1" ; Times: 2
+	Query: "genus:Microdipodops specificepithet:pallidus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:colliaei mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 161
+	Query: "genus:Dipodomys specificepithet:ordii mappable:1 hasmass:1" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "class:Mammalia county:&#34;lake&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "neurotrichus" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:couesi mappable:1" ; Times: 1
+	Query: "genus:Cratogeomys specificepithet:castanops mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1359 download events in this period)
+Total number of records downloaded: 1833
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Poland ; Times: 4
+	Country: Finland ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-13 ; Times: 12
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-09 ; Times: 9
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:mus continent:North America" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.293564192170095,-117.861328125))&lt;100000" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Rodentia county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;San Bernardino&#34;" ; Times: 2
+	Query: "peromyscus truei" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Sciuridae hasmass:1" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 9
+	Query: "genus:ochotona" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Geomyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus continent:North America" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Heteromyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "specificepithet:Americana genus:Mazama mappable:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 2
+	Query: "hasmass:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;tulare&#34;" ; Times: 1
+
+
+End of report.
