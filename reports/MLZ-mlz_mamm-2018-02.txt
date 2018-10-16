@@ -1,0 +1,235 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 242
+Number of records retrieved in searches: 897
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 195
+	Country: Honduras ; Times: 3
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 7
+	Date: 2018-02-03 ; Times: 5
+	Date: 2018-02-02 ; Times: 15
+	Date: 2018-02-01 ; Times: 20
+	Date: 2018-02-07 ; Times: 5
+	Date: 2018-02-06 ; Times: 13
+	Date: 2018-02-05 ; Times: 5
+	Date: 2018-02-04 ; Times: 7
+	Date: 2018-02-21 ; Times: 9
+	Date: 2018-02-20 ; Times: 18
+	Date: 2018-02-23 ; Times: 6
+	Date: 2018-02-22 ; Times: 6
+	Date: 2018-02-25 ; Times: 9
+	Date: 2018-02-24 ; Times: 7
+	Date: 2018-02-27 ; Times: 7
+	Date: 2018-02-26 ; Times: 4
+	Date: 2018-02-28 ; Times: 13
+	Date: 2018-02-14 ; Times: 6
+	Date: 2018-02-15 ; Times: 17
+	Date: 2018-02-16 ; Times: 13
+	Date: 2018-02-17 ; Times: 4
+	Date: 2018-02-10 ; Times: 7
+	Date: 2018-02-11 ; Times: 5
+	Date: 2018-02-12 ; Times: 6
+	Date: 2018-02-13 ; Times: 10
+	Date: 2018-02-18 ; Times: 5
+	Date: 2018-02-19 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Bassariscus and California" ; Times: 2
+	Query: "vntype:specimen specificepithet:virginianus genus:Odocoileus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Aguascalientes&#34; country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "genus:Otospermophilus stateprovince:&#34;California&#34; year &lt;= 1900" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Sylvilagus insonus " ; Times: 1
+	Query: "genus:Mormoops mappable:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;aguascalientes&#34; country:&#34;mexico&#34; continent:america" ; Times: 1
+	Query: "bassariscus" ; Times: 1
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "genus:Mephitis stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "vntype:specimen specificepithet:yagouaroundi genus:felis country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:447" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 2
+	Query: "puma" ; Times: 1
+	Query: "vntype:specimen specificepithet:ordii genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 26
+	Query: "genus:Sigmodon stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:megalophylla genus:Mormoops mappable:1" ; Times: 2
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "genus:dasypus county:&#34;muskogee&#34;" ; Times: 2
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "genus:Mormoops (megalophylla) mappable:1" ; Times: 1
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "catalognumber:1160 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "genus:Otospermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bassariscus astutus and California" ; Times: 3
+	Query: "Nasua nasua" ; Times: 1
+	Query: "specificepithet:concolor genus:puma mappable:1" ; Times: 3
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "spilogale putorius" ; Times: 2
+	Query: "Glaucomys sabrinus san bernardino" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 15
+	Query: "Philander opossum" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "genus:Canis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "tamias speciosus" ; Times: 1
+	Query: "Sciurus yucatanensis " ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "&#34;puma concolor&#34;" ; Times: 1
+	Query: "chaetodipus pernix" ; Times: 1
+	Query: "Didelphis virginiana mappable:1" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Aguascalientes&#34; country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 5
+	Query: "Bassariscus astutus" ; Times: 7
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Urocitellus beldingi " ; Times: 1
+	Query: "vntype:specimen specificepithet:merriami genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Sciurus alleni " ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 6
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "Romerolagus diazi " ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "Lutra longicaudis " ; Times: 3
+	Query: "Dickey" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 79
+	Query: "class:Mammalia bassariscus" ; Times: 1
+	Query: "specificepithet:concolor family:Felidae" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "&#34;nasua nasua&#34; mappable:1" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Mustelidae" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx country:&#34;mexico&#34;" ; Times: 1
+	Query: "tlacuatzin" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:derbianus genus:Caluromys" ; Times: 10
+	Query: "catalognumber:120" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1892 download events in this period)
+Total number of records downloaded: 6481
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 64
+	Country: Mexico ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-25 ; Times: 4
+	Date: 2018-02-01 ; Times: 49
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "vntype:specimen specificepithet:yagouaroundi genus:felis country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Mephitis stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "class:Mammalia institutioncode:MLZ" ; Times: 2
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Bassariscus" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Philander opossum" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "Tamias merriami" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 2
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "genus:Canis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus stateprovince:&#34;California&#34; year &lt;= 1920" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "order:Rodentia class:Mammalia stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:merriami genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx country:&#34;mexico&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:ordii genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
