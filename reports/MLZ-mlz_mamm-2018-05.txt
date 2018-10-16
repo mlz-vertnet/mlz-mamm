@@ -1,0 +1,112 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 194
+Number of records retrieved in searches: 962
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 169
+	Country: Italy ; Times: 8
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 10
+	Date: 2018-05-29 ; Times: 12
+	Date: 2018-05-20 ; Times: 4
+	Date: 2018-05-21 ; Times: 4
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 5
+	Date: 2018-05-24 ; Times: 4
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-27 ; Times: 4
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 5
+	Date: 2018-05-04 ; Times: 8
+	Date: 2018-05-05 ; Times: 4
+	Date: 2018-05-02 ; Times: 6
+	Date: 2018-05-03 ; Times: 5
+	Date: 2018-05-01 ; Times: 13
+	Date: 2018-05-08 ; Times: 10
+	Date: 2018-05-09 ; Times: 4
+	Date: 2018-05-31 ; Times: 8
+	Date: 2018-05-30 ; Times: 8
+	Date: 2018-05-15 ; Times: 6
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-17 ; Times: 8
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 10
+	Date: 2018-05-10 ; Times: 6
+	Date: 2018-05-13 ; Times: 9
+	Date: 2018-05-12 ; Times: 4
+	Date: 2018-05-19 ; Times: 4
+	Date: 2018-05-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:formosus genus:Chaetodipus hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 109
+	Query: "Puma concolor" ; Times: 3
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Tayassu Tajacu" ; Times: 4
+	Query: "Leptonycteris nivalis" ; Times: 4
+	Query: "genus:urocyon" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus hastissue:1" ; Times: 1
+	Query: "specificepithet:concolor genus:puma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 2
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:irroratus" ; Times: 1
+	Query: "tayassu tajacu" ; Times: 1
+	Query: "liomys irroratus" ; Times: 3
+	Query: "genus:puma" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 36
+	Query: "Dipodomys Washoe county" ; Times: 4
+	Query: "Lutra lutra" ; Times: 2
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1178 download events in this period)
+Total number of records downloaded: 406
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:urocyon" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus hastissue:1" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+
+
+End of report.
