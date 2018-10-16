@@ -1,0 +1,122 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 1026
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 134
+	Country: China ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 4
+	Date: 2017-12-31 ; Times: 7
+	Date: 2017-12-16 ; Times: 4
+	Date: 2017-12-17 ; Times: 4
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-15 ; Times: 4
+	Date: 2017-12-12 ; Times: 4
+	Date: 2017-12-13 ; Times: 4
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-19 ; Times: 5
+	Date: 2017-12-29 ; Times: 4
+	Date: 2017-12-28 ; Times: 5
+	Date: 2017-12-27 ; Times: 9
+	Date: 2017-12-26 ; Times: 9
+	Date: 2017-12-25 ; Times: 5
+	Date: 2017-12-24 ; Times: 4
+	Date: 2017-12-23 ; Times: 4
+	Date: 2017-12-22 ; Times: 4
+	Date: 2017-12-21 ; Times: 4
+	Date: 2017-12-20 ; Times: 4
+	Date: 2017-12-05 ; Times: 6
+	Date: 2017-12-04 ; Times: 8
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-06 ; Times: 8
+	Date: 2017-12-01 ; Times: 6
+	Date: 2017-12-03 ; Times: 6
+	Date: 2017-12-02 ; Times: 5
+	Date: 2017-12-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sylvilagus cunicularius" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 2
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "class:Mammalia county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1875" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "skull identification" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "specificepithet:penicillatus class:Mammalia county:&#34;Riverside&#34;" ; Times: 2
+	Query: "microdipodops megacephalus" ; Times: 3
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2001 mappable:1" ; Times: 2
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 86
+	Query: "stateprovince:&#34;nevada&#34; (lander)" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "microdipodops stateprovince:&#34;nevada&#34; (lander)" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 27
+	Query: "specificepithet:inornatus genus:Perognathus institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus institutioncode:MLZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 674 download events in this period)
+Total number of records downloaded: 151
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 3
+	Date: 2017-12-26 ; Times: 7
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-11 ; Times: 4
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sylvilagus cunicularius" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:brown year &gt;= 1934 year &lt;= 1953" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+
+
+End of report.
