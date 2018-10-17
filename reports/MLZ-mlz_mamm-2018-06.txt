@@ -1,0 +1,124 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 1061
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 172
+	Country: Finland ; Times: 1
+	Country: China ; Times: 1
+	Country: Mexico ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 9
+	Date: 2018-06-05 ; Times: 10
+	Date: 2018-06-04 ; Times: 9
+	Date: 2018-06-03 ; Times: 8
+	Date: 2018-06-02 ; Times: 4
+	Date: 2018-06-01 ; Times: 9
+	Date: 2018-06-25 ; Times: 7
+	Date: 2018-06-24 ; Times: 4
+	Date: 2018-06-27 ; Times: 6
+	Date: 2018-06-26 ; Times: 4
+	Date: 2018-06-21 ; Times: 5
+	Date: 2018-06-20 ; Times: 6
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-08 ; Times: 8
+	Date: 2018-06-09 ; Times: 4
+	Date: 2018-06-22 ; Times: 9
+	Date: 2018-06-10 ; Times: 4
+	Date: 2018-06-11 ; Times: 5
+	Date: 2018-06-12 ; Times: 6
+	Date: 2018-06-13 ; Times: 11
+	Date: 2018-06-14 ; Times: 7
+	Date: 2018-06-15 ; Times: 7
+	Date: 2018-06-16 ; Times: 10
+	Date: 2018-06-17 ; Times: 5
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-19 ; Times: 10
+	Date: 2018-06-30 ; Times: 5
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "urocyon cinereoargenteus mexico" ; Times: 2
+	Query: "genus:puma" ; Times: 1
+	Query: "sylvilagus insonus" ; Times: 1
+	Query: "rhogeessa parvula" ; Times: 2
+	Query: "Puma concolor" ; Times: 7
+	Query: "order:rodentia locality:death valley stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "mammal Colima" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 34
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "Reithrodontomys raviventris" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 5
+	Query: "Lynx rufus" ; Times: 2
+	Query: "puma concolor" ; Times: 4
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "genus:callospermophilus county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 3
+	Query: "lynx rufus" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 1
+	Query: "urocyon cinereoargenteus Mexico" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949" ; Times: 2
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "osgoodomys" ; Times: 1
+	Query: "mazama americana" ; Times: 2
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 104
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "recordedby:Jillson" ; Times: 5
+	Query: "Sylvilagus insonus" ; Times: 5
+	Query: "Rhogeessa parvula" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1169 download events in this period)
+Total number of records downloaded: 726
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-19 ; Times: 6
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sylvilagus cunicularius" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "mammal Colima" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "osgoodomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "Sylvilagus insonus" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "Microtus" ; Times: 1
+
+
+End of report.
