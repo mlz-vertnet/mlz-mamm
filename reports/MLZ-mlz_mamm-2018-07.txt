@@ -1,0 +1,119 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 325
+Number of records retrieved in searches: 1760
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 7
+	Country: El Salvador ; Times: 2
+	Country: Lithuania ; Times: 11
+	Country: United States ; Times: 286
+	Country: Guatemala ; Times: 6
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Sri Lanka ; Times: 7
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 4
+	Date: 2018-07-01 ; Times: 8
+	Date: 2018-07-02 ; Times: 5
+	Date: 2018-07-03 ; Times: 4
+	Date: 2018-07-28 ; Times: 8
+	Date: 2018-07-29 ; Times: 7
+	Date: 2018-07-08 ; Times: 4
+	Date: 2018-07-09 ; Times: 5
+	Date: 2018-07-04 ; Times: 7
+	Date: 2018-07-05 ; Times: 4
+	Date: 2018-07-06 ; Times: 5
+	Date: 2018-07-21 ; Times: 8
+	Date: 2018-07-26 ; Times: 13
+	Date: 2018-07-27 ; Times: 16
+	Date: 2018-07-24 ; Times: 16
+	Date: 2018-07-25 ; Times: 18
+	Date: 2018-07-13 ; Times: 18
+	Date: 2018-07-12 ; Times: 8
+	Date: 2018-07-11 ; Times: 10
+	Date: 2018-07-10 ; Times: 6
+	Date: 2018-07-17 ; Times: 21
+	Date: 2018-07-16 ; Times: 15
+	Date: 2018-07-15 ; Times: 8
+	Date: 2018-07-14 ; Times: 8
+	Date: 2018-07-31 ; Times: 6
+	Date: 2018-07-30 ; Times: 8
+	Date: 2018-07-19 ; Times: 16
+	Date: 2018-07-18 ; Times: 16
+	Date: 2018-07-22 ; Times: 9
+	Date: 2018-07-23 ; Times: 13
+	Date: 2018-07-20 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "7931" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "nelsoni kern" ; Times: 2
+	Query: "nelsoni Kern" ; Times: 1
+	Query: "san miguel i. california" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "Puma concolor" ; Times: 17
+	Query: "Canis latrans institutioncode:MLZ" ; Times: 2
+	Query: "puma" ; Times: 1
+	Query: "Canis latrans mappable:1" ; Times: 4
+	Query: "specificepithet:megacephalus genus:microdipodops county:&#34;washoe&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Tamias bulleri" ; Times: 1
+	Query: "7111 genus:MYOTIS class:MAMMALIA" ; Times: 1
+	Query: "Tamias dorsalis" ; Times: 3
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "Mustela frenata" ; Times: 2
+	Query: "genus:mustela country:&#34;Mexico&#34;" ; Times: 1
+	Query: "canis latrans mappable:1" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "spilogale putorius" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "Mazama americana" ; Times: 4
+	Query: "57433" ; Times: 1
+	Query: "c 5862" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 5
+	Query: "country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 197
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 65
+	Query: "Tylomys" ; Times: 1
+	Query: "distribution" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 977 download events in this period)
+Total number of records downloaded: 100
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 3
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "Canis latrans institutioncode:MLZ" ; Times: 3
+	Query: "Chihuahua" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2003 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Anoura" ; Times: 1
+
+
+End of report.
