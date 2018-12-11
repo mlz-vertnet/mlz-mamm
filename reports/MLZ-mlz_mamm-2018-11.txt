@@ -1,0 +1,278 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 378
+Number of records retrieved in searches: 1830
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 334
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 23
+	Date: 2018-11-08 ; Times: 4
+	Date: 2018-11-07 ; Times: 16
+	Date: 2018-11-06 ; Times: 25
+	Date: 2018-11-05 ; Times: 12
+	Date: 2018-11-04 ; Times: 9
+	Date: 2018-11-03 ; Times: 11
+	Date: 2018-11-02 ; Times: 8
+	Date: 2018-11-01 ; Times: 14
+	Date: 2018-11-25 ; Times: 9
+	Date: 2018-11-24 ; Times: 8
+	Date: 2018-11-27 ; Times: 13
+	Date: 2018-11-26 ; Times: 29
+	Date: 2018-11-21 ; Times: 8
+	Date: 2018-11-20 ; Times: 8
+	Date: 2018-11-23 ; Times: 10
+	Date: 2018-11-22 ; Times: 9
+	Date: 2018-11-29 ; Times: 20
+	Date: 2018-11-28 ; Times: 1
+	Date: 2018-11-18 ; Times: 9
+	Date: 2018-11-19 ; Times: 18
+	Date: 2018-11-10 ; Times: 12
+	Date: 2018-11-11 ; Times: 9
+	Date: 2018-11-12 ; Times: 27
+	Date: 2018-11-13 ; Times: 11
+	Date: 2018-11-14 ; Times: 8
+	Date: 2018-11-15 ; Times: 11
+	Date: 2018-11-16 ; Times: 9
+	Date: 2018-11-17 ; Times: 9
+	Date: 2018-11-30 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:castanops genus:cratogeomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 9
+	Query: "mormoops megalophylla" ; Times: 5
+	Query: "Sciurus yucatanensis" ; Times: 2
+	Query: "order:rodentia stateprovince:&#34;chiapas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys" ; Times: 11
+	Query: "mephitis mephitis" ; Times: 1
+	Query: "Tayassu tajacu" ; Times: 1
+	Query: "spilogale" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "Sagehen" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "Felis concolor" ; Times: 1
+	Query: "Lynx Rufus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 53
+	Query: "genus:dipodomys catalognumber:1903" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:albigula genus:neotoma stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "boylii county:&#34;stanislaus&#34;" ; Times: 1
+	Query: "thomomys umbrinus" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus year &gt;= 1980 year &lt;= 1990" ; Times: 2
+	Query: "genus:microdipodops county:&#34;Lincoln&#34; stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "genus:Puma hassex:1" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "mlz 1890" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 3
+	Query: "Lynx rufus" ; Times: 2
+	Query: "family:vespertilionidae continent:North America institutioncode:MLZ" ; Times: 1
+	Query: "county:&#34;Contra Costa County&#34; (Contra Costa)" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "Chaetodipus nelsoni" ; Times: 1
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "genus:dipodomys catalognumber:1880" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "scapanus latimanus" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx country:&#34;Mexico&#34; (lynx rufus)" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 28
+	Query: "specificepithet:intermedius genus:Chaetodipus" ; Times: 1
+	Query: "genus:didelphis country:&#34;mexico&#34;" ; Times: 1
+	Query: "belmont family:heteromyidae" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 4
+	Query: "lynx rufus" ; Times: 17
+	Query: "specificepithet:virginiana genus:didelphis country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Microdipodops stateprovince:&#34;California&#34; institutioncode:MLZ" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:diazi genus:romerolagus" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 161
+	Query: "Mephitis mephitis" ; Times: 4
+	Query: "genus:puma" ; Times: 1
+	Query: "mazama americana" ; Times: 2
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 5
+	Query: "genus:felis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Lynx country:&#34;mexico&#34;" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Sciurus deppei" ; Times: 3
+	Query: "lynx Rufus" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "lepus alleni" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 151 (out of 1719 download events in this period)
+Total number of records downloaded: 1838
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 43
+	Country: Mexico ; Times: 99
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-29 ; Times: 8
+	Date: 2018-11-09 ; Times: 7
+	Date: 2018-11-07 ; Times: 4
+	Date: 2018-11-06 ; Times: 7
+	Date: 2018-11-05 ; Times: 6
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-03 ; Times: 2
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-15 ; Times: 47
+	Date: 2018-11-24 ; Times: 3
+	Date: 2018-11-27 ; Times: 3
+	Date: 2018-11-26 ; Times: 12
+	Date: 2018-11-14 ; Times: 22
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-11 ; Times: 8
+	Date: 2018-11-12 ; Times: 10
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nudicaudus genus:Tylomys" ; Times: 1
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "genus:Orthogeomys hispidus" ; Times: 1
+	Query: "specificepithet:couesi genus:Oryzomys" ; Times: 1
+	Query: "genus:Puma hassex:1" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "genus:Didelphis marsupialis" ; Times: 2
+	Query: "specificepithet:yucatanensis genus:Sciurus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "Sciurinae" ; Times: 2
+	Query: "Lepus californicus" ; Times: 2
+	Query: "genus:Sylvilagus brasiliensis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "specificepithet:americana genus:Mazama" ; Times: 1
+	Query: "genus:Bassariscus sumichrasti" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "genus:Rhogeessa parvula" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "genus:Desmodus rotundus" ; Times: 2
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "specificepithet:deppei genus:Sciurus" ; Times: 1
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "genus:Mazama americana" ; Times: 1
+	Query: "specificepithet:canescens genus:Tlacuatzin" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Sciurus deppei" ; Times: 1
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "Chaetodipus californicus" ; Times: 2
+	Query: "genus:Mormoops megalophylla" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "specificepithet:punctata genus:Dasyprocta" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "genus:Tlacuatzin canescens" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "genus:Marmosa mexicana" ; Times: 1
+	Query: "specificepithet:castanops genus:cratogeomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 2
+	Query: "genus:Oryzomys couesi" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:soricina genus:Glossophaga" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "order:CHIROPTERA country:&#34;MEXICO&#34; continent:AMERICA" ; Times: 3
+	Query: "Procyon lotor" ; Times: 2
+	Query: "genus:Dasyprocta punctata" ; Times: 2
+	Query: "specificepithet:opossum genus:Philander" ; Times: 1
+	Query: "genus:Caluromys derbianus" ; Times: 2
+	Query: "Chaetodipus nelsoni" ; Times: 2
+	Query: "genus:Molossus molossus" ; Times: 1
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "genus:Tylomys nudicaudus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 2
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "specificepithet:rufus genus:lynx country:&#34;Mexico&#34; (lynx rufus)" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "genus:Philander opossum" ; Times: 1
+	Query: "Sciurus yucatanensis" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "specificepithet:parvula genus:Rhogeessa" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "genus:Ateles geoffroyi" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:hispidus genus:Orthogeomys" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "family:vespertilionidae continent:North America institutioncode:MLZ" ; Times: 1
+	Query: "genus:Artibeus lituratus" ; Times: 2
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 2
+	Query: "lepus californicus" ; Times: 1
+	Query: "genus:Sciurus yucatanensis" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:megalophylla genus:Mormoops" ; Times: 1
+	Query: "genus:Artibeus jamaicensis" ; Times: 2
+	Query: "specificepithet:virginiana genus:didelphis country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "genus:Glossophaga soricina" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+
+End of report.
