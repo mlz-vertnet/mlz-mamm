@@ -1,0 +1,135 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 375
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 55
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-09 ; Times: 5
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 4
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-29 ; Times: 11
+	Date: 2019-01-25 ; Times: 11
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-31 ; Times: 9
+	Date: 2019-01-30 ; Times: 10
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sonomae genus:tamias institutioncode:MLZ" ; Times: 1
+	Query: "Puma" ; Times: 2
+	Query: "&#34;Lamb&#34; AND &#34;Island&#34;" ; Times: 3
+	Query: "specificepithet:durangae genus:tamias" ; Times: 1
+	Query: "genus:sigmodon country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Philander opossum" ; Times: 3
+	Query: "specificepithet:speciosus genus:tamias institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias" ; Times: 3
+	Query: "dipodomys ordii hasmass:1" ; Times: 1
+	Query: "Mexico genus:urocyon family:Canidae" ; Times: 1
+	Query: "(opossum) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "lutra lutra" ; Times: 3
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "&#34;bluff lake&#34;" ; Times: 1
+	Query: "genus:sigmodon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hafner specificepithet:nelsoni genus:ammospermophilus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "marmosa" ; Times: 2
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "opossum" ; Times: 3
+	Query: "(opossum)" ; Times: 1
+	Query: "aguascalientes" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias" ; Times: 1
+	Query: "specificepithet:sonomae genus:tamias" ; Times: 1
+	Query: "specificepithet:durangae genus:tamias institutioncode:MLZ" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:MLZ" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 3
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:MLZ" ; Times: 1
+	Query: "chaetodipus pernix" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "&#34;caluromys derbianus&#34;" ; Times: 3
+	Query: "specificepithet:merriami genus:tamias institutioncode:MLZ" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "philander opossum" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias institutioncode:MLZ" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 2
+	Query: "genus:sigmodon country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "spilogale" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "(Puma concolor)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 962 download events in this period)
+Total number of records downloaded: 218
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-30 ; Times: 2
+	Date: 2019-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:lateralis genus:callospermophilus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "genus:sigmodon country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+
+
+End of report.
