@@ -1,0 +1,114 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 889
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 36
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-22 ; Times: 12
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-02 ; Times: 6
+	Date: 2019-05-09 ; Times: 4
+	Date: 2019-05-08 ; Times: 11
+	Date: 2019-05-06 ; Times: 10
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-14 ; Times: 6
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 3
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;Aguascalientes&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; year &gt;= 1933 year &lt;= 1933 month &gt;= 7 month &lt;= 7 institutioncode:MLZ" ; Times: 1
+	Query: "rancho santa rosa chiapas" ; Times: 1
+	Query: "balantiopteryx" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;aguascalientes&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "lutra lutra" ; Times: 2
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34; hasmass:1" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "sciurus yucatanensis" ; Times: 2
+	Query: "Scapanus latimanus" ; Times: 1
+	Query: "Tamias bulleri" ; Times: 2
+	Query: "sciurus nayaritensis" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "Eumops perotis mappable:1" ; Times: 1
+	Query: "tlacuatzin" ; Times: 3
+	Query: "sciurus alleni" ; Times: 2
+	Query: "occidental college" ; Times: 4
+	Query: "class:Mammalia stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; year &gt;= 1933 year &lt;= 1933 month &gt;= 7 month &lt;= 7 institutioncode:MLZ" ; Times: 2
+	Query: "specificepithet:durangae genus:Tamias" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;3000" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "bassariscus" ; Times: 1
+	Query: "Dipodomys californicus" ; Times: 2
+	Query: "specificepithet:cinerea genus:Neotoma hasmass:1" ; Times: 1
+	Query: "sciurus oculatus" ; Times: 2
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 13
+	Query: "stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; year &gt;= 1933 year &lt;= 1933 month &gt;= 6 month &lt;= 8 institutioncode:MLZ" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 4
+	Query: "genus:ochotona distance(location,geopoint(39.11607309771916,-120.05379999705497))&lt;49754" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma stateprovince:&#34;California&#34; hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 940 download events in this period)
+Total number of records downloaded: 178
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; year &gt;= 1933 year &lt;= 1933 month &gt;= 7 month &lt;= 7 institutioncode:MLZ" ; Times: 1
+	Query: "peromyscus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "tlacuatzin" ; Times: 1
+
+
+End of report.
