@@ -1,0 +1,163 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 503
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 83
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-26 ; Times: 5
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 6
+	Date: 2019-06-04 ; Times: 5
+	Date: 2019-06-11 ; Times: 44
+	Date: 2019-06-03 ; Times: 8
+	Date: 2019-06-10 ; Times: 18
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-12 ; Times: 4
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Neotoma specificepithet:mexicana" ; Times: 1
+	Query: "genus:Osgoodomys specificepithet:banderanus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:borealis" ; Times: 1
+	Query: "genus:Myotis specificepithet:californicus" ; Times: 1
+	Query: "genus:Molossus specificepithet:sinaloae" ; Times: 1
+	Query: "genus:Lepus specificepithet:alleni" ; Times: 1
+	Query: "genus:Anoura specificepithet:geoffroyi" ; Times: 1
+	Query: "Philander opossum" ; Times: 3
+	Query: "genus:Myotis specificepithet:velifer" ; Times: 1
+	Query: "genus:Lynx specificepithet:rufus" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:audubonii" ; Times: 1
+	Query: "MLZ Sciurus" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:intermedius" ; Times: 1
+	Query: "genus:Myotis specificepithet:yumanensis" ; Times: 1
+	Query: "genus:Neotoma specificepithet:cinerea" ; Times: 2
+	Query: "genus:Balantiopteryx specificepithet:plicata" ; Times: 1
+	Query: "Puma concolor" ; Times: 10
+	Query: "lutrinae" ; Times: 2
+	Query: "specificepithet:boylii county:&#34;stanislaus&#34;" ; Times: 1
+	Query: "genus:Neurotrichus specificepithet:gibbsii" ; Times: 1
+	Query: "genus:Rattus specificepithet:norvegicus" ; Times: 1
+	Query: "genus:Neotoma specificepithet:lepida" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:truei" ; Times: 1
+	Query: "vntype:specimen specificepithet:saussurei genus:sorex" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:agilis" ; Times: 1
+	Query: "genus:Nasua specificepithet:nasua" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:melanotis" ; Times: 1
+	Query: "genus:Microtus specificepithet:mexicanus" ; Times: 1
+	Query: "opossum" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "genus:Ondatra specificepithet:zibethicus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Thomomys specificepithet:umbrinus" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:hispidus" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 2
+	Query: "genus:Eumops specificepithet:perotis" ; Times: 1
+	Query: "genus:Microtus specificepithet:longicaudus" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:megalotis" ; Times: 1
+	Query: "felis concolor" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:leucopus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:pectoralis" ; Times: 1
+	Query: "genus:Dasyprocta specificepithet:punctata" ; Times: 1
+	Query: "genus:Philander specificepithet:opossum" ; Times: 2
+	Query: "genus:Desmodus specificepithet:rotundus" ; Times: 1
+	Query: "Artibeus" ; Times: 1
+	Query: "genus:Mormoops specificepithet:megalophylla" ; Times: 1
+	Query: "genus:Artibeus specificepithet:hirsutus" ; Times: 1
+	Query: "genus:Natalus specificepithet:stramineus" ; Times: 1
+	Query: "genus:Baiomys specificepithet:taylori" ; Times: 2
+	Query: "genus:Geomys specificepithet:bursarius" ; Times: 1
+	Query: "genus:Aplodontia specificepithet:rufa" ; Times: 2
+	Query: "genus:Puma specificepithet:concolor" ; Times: 1
+	Query: "genus:Marmosa specificepithet:mexicana" ; Times: 1
+	Query: "genus:Caluromys specificepithet:derbianus" ; Times: 2
+	Query: "genus:Myotis specificepithet:vivesi" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:boylii" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:californicus" ; Times: 1
+	Query: "genus:Odocoileus specificepithet:virginianus" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 3
+	Query: "Bassariscus astutus" ; Times: 3
+	Query: "genus:Onychomys specificepithet:leucogaster" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:douglasii" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:couesi" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus" ; Times: 1
+	Query: "genus:Leptonycteris specificepithet:nivalis" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:townsendii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1182 download events in this period)
+Total number of records downloaded: 1025
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Kuwait ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 5
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lutrinae" ; Times: 2
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "order:Cingulata" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "rodentia" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "beaver" ; Times: 9
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Opossum" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "BEAVER" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1901 year &lt;= 1925" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
