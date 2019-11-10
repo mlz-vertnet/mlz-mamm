@@ -1,0 +1,113 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 361
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-24 ; Times: 12
+	Date: 2019-09-12 ; Times: 5
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-06 ; Times: 4
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-02 ; Times: 6
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Artibeus aztecus" ; Times: 2
+	Query: "Peromyscus maniculatus 2000" ; Times: 3
+	Query: "Lemmiscus curtatus" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "specificepithet:irroratus genus:Liomys" ; Times: 2
+	Query: "Tlacuatzin canescens" ; Times: 3
+	Query: "irroratus" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "bulleri" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:Sorex" ; Times: 1
+	Query: "Peromyscus maniculatus 2003" ; Times: 1
+	Query: "specificepithet:MERRIAMI genus:TAMIAS" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 2
+	Query: "genus:Tamias stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 2
+	Query: "specificepithet:fuscipes genus:Neotoma year &gt;= 2002 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:bottae genus:Thomomys country:&#34;Mexico&#34;" ; Times: 2
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 2012" ; Times: 4
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "Ateles geoffroyi mappable:1" ; Times: 1
+	Query: "family:Sciuridae county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Peromyscus maniculatus 1986" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1073 download events in this period)
+Total number of records downloaded: 218
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "chihuahua" ; Times: 2
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "eumops perotis" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+
+
+End of report.
