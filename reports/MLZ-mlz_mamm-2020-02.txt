@@ -1,0 +1,155 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 472
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: El Salvador ; Times: 1
+	Country: United States ; Times: 72
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-02 ; Times: 6
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-12 ; Times: 8
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-07 ; Times: 3
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-18 ; Times: 14
+	Date: 2020-02-05 ; Times: 10
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-03 ; Times: 15
+	Date: 2020-02-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Puma concolor&#34;" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris country:&#34;mexico&#34;" ; Times: 1
+	Query: "Opossum" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "specificepithet:pallidus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "tylomys" ; Times: 1
+	Query: "didelphis &#34;virginiana&#34;" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 2
+	Query: "81138" ; Times: 1
+	Query: "&#34;spilogale putorius&#34;" ; Times: 1
+	Query: "Jillson" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: "lemmiscus curtatus" ; Times: 3
+	Query: "opossum" ; Times: 4
+	Query: "(opossum)" ; Times: 4
+	Query: "opossum didelphimorphia" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "spilogale putorius" ; Times: 3
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 4
+	Query: "Liomys irroratus" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 3
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 9
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "genus:Aplodontia county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;odocoileus virginianus&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 2
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 2
+	Query: "S. Jillson" ; Times: 2
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 1
+	Query: "canis latrans mexico" ; Times: 2
+	Query: "spilogale" ; Times: 3
+	Query: "&#34;Didelphis Virginiana&#34;" ; Times: 2
+	Query: "Caluromys derbianus" ; Times: 2
+	Query: "&#34;Odocoileus virginianus&#34;" ; Times: 1
+	Query: "Opossum Didelphimorphia" ; Times: 2
+	Query: "locality:San Vicente " ; Times: 1
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1023 download events in this period)
+Total number of records downloaded: 3547
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Canada ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-06 ; Times: 6
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-27 ; Times: 5
+	Date: 2020-02-18 ; Times: 4
+	Date: 2020-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicaudus genus:microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:pallidus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "specificepithet:megacephalus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+
+
+End of report.
