@@ -1,0 +1,87 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 105
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-09 ; Times: 5
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-11 ; Times: 3
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hispidus genus:sigmodon county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:MLZ" ; Times: 1
+	Query: "class:Mammalia basisofrecord:PreservedSpecimen distance(location,geopoint(42.576666008679524,-118.57975172678323))&lt;34361" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "genus:Glaucomys county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:ochotona specificepithet:(princeps OR collaris) year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "specificepithet:zibethicus genus:ondatra county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:MLZ" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "bulleri country:&#34;mexico&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Hidalgo&#34; country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "spilogale putorius" ; Times: 1
+	Query: "locality:Pinyon county:&#34;Riverside&#34;" ; Times: 2
+	Query: "Mazama americana" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "specificepithet:putorius genus:SPilogale" ; Times: 2
+	Query: "genus:Bassariscus" ; Times: 2
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 3
+	Query: "lepus alleni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 596 download events in this period)
+Total number of records downloaded: 111
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Pinyon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "class:Mammalia basisofrecord:PreservedSpecimen distance(location,geopoint(42.576666008679524,-118.57975172678323))&lt;34361" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Hidalgo&#34; country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
