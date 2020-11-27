@@ -1,0 +1,207 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1056
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Uruguay ; Times: 2
+	Country: Unknown ; Times: 12
+	Country: Mexico ; Times: 34
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Sri Lanka ; Times: 6
+	Country: United States ; Times: 116
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 9
+	Date: 2019-10-08 ; Times: 8
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-20 ; Times: 3
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-24 ; Times: 2
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-02 ; Times: 11
+	Date: 2019-10-05 ; Times: 7
+	Date: 2019-10-04 ; Times: 32
+	Date: 2019-10-07 ; Times: 5
+	Date: 2019-10-23 ; Times: 18
+	Date: 2019-10-22 ; Times: 10
+	Date: 2019-10-29 ; Times: 11
+	Date: 2019-10-18 ; Times: 9
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-10 ; Times: 30
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-17 ; Times: 7
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Reithrodontomys megalotis 2000" ; Times: 1
+	Query: "Reithrodontomys megalotis 2003" ; Times: 1
+	Query: "Onychomys leucogaster 1985" ; Times: 1
+	Query: "Mus musculus 2019" ; Times: 2
+	Query: "Neotoma cinerea 2019" ; Times: 2
+	Query: "skin specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "specificepithet:beecheyi genus:Otospermophilus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "genus:ochotona specificepithet:(princeps OR collaris) year&gt;=1916 year&lt;=1920" ; Times: 10
+	Query: "Odocoileus virginianus mappable:1" ; Times: 4
+	Query: "specificepithet:megacephalus genus:microdipodops county:&#34;nye&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:Sciurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "Odocoileus virginianus vntype:specimen" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Dipodomys ordii 2005" ; Times: 1
+	Query: "specificepithet:megacephalus genus:microdipodops stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "Puma concolor" ; Times: 16
+	Query: "Dipodomys ordii 2003" ; Times: 2
+	Query: "Spilogale putorius" ; Times: 3
+	Query: "Dipodomys ordii 1985" ; Times: 1
+	Query: "Microtus montanus 2012" ; Times: 1
+	Query: "244769" ; Times: 1
+	Query: "microdipodops megacephalus" ; Times: 2
+	Query: "Onychomys leucogaster 2012" ; Times: 1
+	Query: "Neotoma phenax" ; Times: 1
+	Query: "genus:canis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Peromyscus melanotis" ; Times: 2
+	Query: "genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rattus norvegicus 2019" ; Times: 2
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "class:mammalia locality:Toluca stateprovince:&#34;Mexico&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "NEOTOMA PHENAX" ; Times: 4
+	Query: "iguana iguana sinaloa" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "family:Heteromyidae hasmass:1" ; Times: 1
+	Query: "Rattus norvegicus 2000" ; Times: 1
+	Query: "Mus musculus 2012" ; Times: 2
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Reithrodontomys megalotis 2012" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Microdipodops county:&#34;Lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Mus musculus 2000" ; Times: 2
+	Query: "Liomys irroratus" ; Times: 3
+	Query: "Microtus longicaudus 1986" ; Times: 1
+	Query: "Reithrodontomys megalotis 2019" ; Times: 2
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:dipodomys stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "odocoileus virginianus mappable:1" ; Times: 1
+	Query: "Dipodomys ordii 2012" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;nye&#34; stateprovince:&#34;nevada&#34;" ; Times: 3
+	Query: "specificepithet:putorius genus:Spilogale class:Mammalia" ; Times: 1
+	Query: "Geomys bursarius 2012" ; Times: 1
+	Query: "Rattus norvegicus 2012" ; Times: 1
+	Query: "Neotoma cinerea 2012" ; Times: 1
+	Query: "specificepithet:megacephalus genus:microdipodops stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Geomys bursarius 2019" ; Times: 1
+	Query: "Rattus rattus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 19
+	Query: "Neotoma mexicana 2012" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 2
+	Query: "genus:SPERMOPHILUS county:&#34;IMPERIAL&#34; stateprovince:&#34;CALIFORNIA&#34; institutioncode:MLZ" ; Times: 1
+	Query: "Microtus longicaudus 2012" ; Times: 1
+	Query: "Microtus longicaudus 2000" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 19
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "didelphis virginiana year &gt;= 1700 year &lt;= 1800" ; Times: 1
+	Query: "mazama americana" ; Times: 2
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 7
+	Query: "Neotoma mexicana 1984" ; Times: 1
+	Query: "family:Geomyidae hasmass:1" ; Times: 1
+	Query: "genus:Tamias country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Onychomys leucogaster 2003" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Geomys bursarius 1985" ; Times: 1
+	Query: "Microtus montanus 2019" ; Times: 1
+	Query: "lepus alleni" ; Times: 1
+	Query: "Puma Concolor" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 2
+	Query: "Microdipodops megacephalus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1308 download events in this period)
+Total number of records downloaded: 1533
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-11 ; Times: 4
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-04 ; Times: 4
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-10 ; Times: 5
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sciurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "family:soricidae" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sabrinus genus:Glaucomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 2
+	Query: "class:mammalia locality:Toluca stateprovince:&#34;Mexico&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "family:Heteromyidae hasmass:1" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "specificepithet:merriami genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sorex ornatus" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sabrinus genus:glaucomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:Geomyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leptonycteris" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Rattus rattus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Myotis family:Vespertilionidae order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tamias country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
