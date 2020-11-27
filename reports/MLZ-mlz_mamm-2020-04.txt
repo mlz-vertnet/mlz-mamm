@@ -1,0 +1,156 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 1266
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 58
+	Country: Austria ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 8
+	Date: 2020-04-03 ; Times: 15
+	Date: 2020-04-07 ; Times: 34
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 7
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 4
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-22 ; Times: 7
+	Date: 2020-04-30 ; Times: 4
+	Date: 2020-04-20 ; Times: 5
+	Date: 2020-04-21 ; Times: 15
+	Date: 2020-04-26 ; Times: 6
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 3
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-08 ; Times: 5
+	Date: 2020-04-09 ; Times: 7
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sciurus deppei" ; Times: 3
+	Query: "Sciurus aberti" ; Times: 3
+	Query: "Molossus molossus" ; Times: 3
+	Query: "specificepithet:latimanus genus:Scapanus county:&#34;contra costa&#34;" ; Times: 1
+	Query: "Microdipodops megacephalus mappable:1" ; Times: 8
+	Query: "specificepithet:beldingi genus:Urocitellus hasmass:1" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 4
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 2
+	Query: "genus:Artibeus specificepithet:lituratus" ; Times: 1
+	Query: "Sciurus variegatoides" ; Times: 3
+	Query: "lutra lutra" ; Times: 3
+	Query: "Puma concolor" ; Times: 7
+	Query: "Spilogale putorius" ; Times: 3
+	Query: "specificepithet:leucurus genus:Ammospermophilus hasmass:1" ; Times: 1
+	Query: "Sciurus alleni" ; Times: 3
+	Query: "Sciurus niger" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "Tadarida brasiliensis" ; Times: 2
+	Query: "Bassariscus" ; Times: 11
+	Query: "Odocoileus virginianus" ; Times: 4
+	Query: "genus:desmodus specificepithet:rotundus" ; Times: 2
+	Query: "Tamiasciurus douglasii" ; Times: 3
+	Query: "Sciurus oculatus" ; Times: 3
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:sumichrasti genus:Bassariscus" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:MLZ" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "specificepithet:nelsoni genus:ammospermophilus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:MLZ" ; Times: 1
+	Query: "genus:artibeus specificepithet:lituratus" ; Times: 2
+	Query: "Sciurus colliaei" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Mazama americana" ; Times: 3
+	Query: "Neotoma lepida" ; Times: 5
+	Query: "lynx rufus México" ; Times: 1
+	Query: "opossum" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus hasmass:1" ; Times: 1
+	Query: "Lepus alleni" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen genus:Bassariscus" ; Times: 1
+	Query: "lynx rufus mexico" ; Times: 1
+	Query: "mammal skulls" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Molossus sinaloae" ; Times: 4
+	Query: "class:Mammalia county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Artibeus lituratus" ; Times: 4
+	Query: "Didelphis virginiana california" ; Times: 5
+	Query: "class:Mammalia county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Lutra lutra" ; Times: 9
+	Query: "specificepithet:lituratus genus:Artibeus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1171 download events in this period)
+Total number of records downloaded: 1182
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 17
+	Country: Austria ; Times: 1
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-21 ; Times: 3
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Bassariscus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:artibeus specificepithet:lituratus" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
