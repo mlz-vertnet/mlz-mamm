@@ -1,0 +1,84 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 119
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Japan ; Times: 8
+	Country: United States ; Times: 14
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-18 ; Times: 10
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-03 ; Times: 4
+	Date: 2020-03-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 8
+	Query: "Tylomys nudicaudus" ; Times: 2
+	Query: "Natalus stramineus" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: "(663)" ; Times: 1
+	Query: "Dermanura phaeotis" ; Times: 1
+	Query: "&#34;Chacala&#34;" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias" ; Times: 2
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:MLZ" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Bassariscus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Molossus sinaloae" ; Times: 2
+	Query: "(puma)" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "leptonycteris" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 853 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+
+
+End of report.
