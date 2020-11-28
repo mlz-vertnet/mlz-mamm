@@ -1,0 +1,131 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 188
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 36
+	Country: Peru ; Times: 5
+	Country: Unknown ; Times: 5
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-25 ; Times: 5
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-03 ; Times: 12
+	Date: 2020-07-28 ; Times: 6
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-12 ; Times: 6
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 4
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "nasua nasua" ; Times: 3
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;5789419" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-88.65234375))&lt;3923916" ; Times: 1
+	Query: "lutra lutra" ; Times: 5
+	Query: "didelphis virginiana california" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "c order:chiroptera stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "sPILOGALE" ; Times: 2
+	Query: "vntype:specimen specificepithet:musculus genus:mus basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Tamias merriami" ; Times: 3
+	Query: "Didelphis virginiana" ; Times: 3
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "genus:Puma" ; Times: 3
+	Query: "Spilogale" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "7333" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 7
+	Query: "canis latrans" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "spilogale" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 4
+	Query: "locality:pANACA" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus" ; Times: 1
+	Query: "genus:Tamias country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-102.01171874999999))&lt;4077596" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 940 download events in this period)
+Total number of records downloaded: 731
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "family:felidae" ; Times: 1
+	Query: "c order:chiroptera stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus" ; Times: 2
+	Query: "nasua nasua" ; Times: 2
+	Query: "genus:Puma" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+
+
+End of report.
