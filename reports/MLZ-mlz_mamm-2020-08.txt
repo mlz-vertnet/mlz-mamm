@@ -1,0 +1,127 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 556
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 153
+	Country: Australia ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-06 ; Times: 8
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-07 ; Times: 10
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-02 ; Times: 5
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 114
+	Date: 2020-08-11 ; Times: 9
+	Date: 2020-08-10 ; Times: 6
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-22 ; Times: 2
+	Date: 2020-08-14 ; Times: 6
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "diazi" ; Times: 1
+	Query: "locality:summit peak" ; Times: 1
+	Query: "Dermanura phaeotis" ; Times: 1
+	Query: "133795" ; Times: 6
+	Query: "caluromys derbianus" ; Times: 2
+	Query: "genus:Tamias specificepithet:merriami stateprovince:california" ; Times: 2
+	Query: "20284" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Sciurus alleni" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "specificepithet:megacephalus genus:microdipodops county:&#34;white pine&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "canis latrans vntype:specimen (skin)" ; Times: 1
+	Query: "specificepithet:californicus genus:chAETODIPUS county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 8
+	Query: "Sciurus oculatus" ; Times: 1
+	Query: "Tamias merriami" ; Times: 114
+	Query: "specificepithet:megacephalus genus:microdipodops county:&#34;lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "specificepithet:californicus genus:chAETODIPUS county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:MLZ" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:intermedius genus:Chaetodipus" ; Times: 1
+	Query: "tamias dorsalis" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "8243" ; Times: 1
+	Query: "Hafner specificepithet:megacephalus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:chaetodipus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "tamias merriami" ; Times: 2
+	Query: "genus:glaucomys county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 14
+	Query: "genus:mustela" ; Times: 1
+	Query: "genus:glaucomys county:&#34;San bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "genus:Tamias stateprovince:california" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias" ; Times: 2
+	Query: "genus:chAETODIPUS county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Tamias specificepithet:merriami mappable:1 stateprovince:california" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 756 download events in this period)
+Total number of records downloaded: 3519
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "baculum" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "genus:glaucomys county:&#34;San bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 3
+	Query: "genus:Ochotona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia" ; Times: 3
+
+
+End of report.
