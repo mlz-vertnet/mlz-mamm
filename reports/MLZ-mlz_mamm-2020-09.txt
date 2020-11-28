@@ -1,0 +1,138 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 189
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Denmark ; Times: 1
+	Country: Czechia ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: South Korea ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-24 ; Times: 4
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 14
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-26 ; Times: 3
+	Date: 2020-09-18 ; Times: 2
+	Date: 2020-09-19 ; Times: 2
+	Date: 2020-09-09 ; Times: 3
+	Date: 2020-09-08 ; Times: 4
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 1
+	Query: "scientificname:Puma concolor" ; Times: 2
+	Query: "nasua nasua" ; Times: 3
+	Query: "scientificname:Peromyscus melanotis" ; Times: 1
+	Query: "scientificname:Reithrodontomys megalotis" ; Times: 2
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "scientificname:Liomys irroratus" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "scientificname:Peromyscus leucopus" ; Times: 1
+	Query: "ateles" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:MLZ" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:intermedius genus:chaetodipus" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "Dasyprocta mexicana" ; Times: 1
+	Query: "eutamias merriami" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:megalophylla genus:Mormoops" ; Times: 1
+	Query: "sinaloae" ; Times: 1
+	Query: "Osgoodomys banderanus mexico" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 2
+	Query: "neotoma phenax sinaloa" ; Times: 1
+	Query: "vntype:specimen specificepithet:intermedius genus:Chaetodipus" ; Times: 2
+	Query: "chaetodipus nelsoni" ; Times: 1
+	Query: "tamias merriami" ; Times: 1
+	Query: "Sylvilagus cunicularius mexico" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 4
+	Query: "specificepithet:rufus genus:lynx continent:North America" ; Times: 2
+	Query: "Nasua nasua" ; Times: 3
+	Query: "specificepithet:heermanni genus:Dipodomys order:Rodentia county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "Caluromys derbianus" ; Times: 2
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 1
+	Query: "specificepithet:raviventris genus:Reithrodontomys hasmass:1" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 976 download events in this period)
+Total number of records downloaded: 578
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-28 ; Times: 3
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;san bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 2
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Osgoodomys banderanus mexico" ; Times: 2
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "Sylvilagus cunicularius mexico" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:raviventris genus:Reithrodontomys hasmass:1" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+
+
+End of report.
