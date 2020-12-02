@@ -1,0 +1,189 @@
+Report for Institution Code MLZ, Resource mlz_mamm
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 619
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 120
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 10
+	Date: 2020-11-22 ; Times: 1
+	Date: 2020-11-23 ; Times: 3
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-08 ; Times: 6
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-04 ; Times: 7
+	Date: 2020-11-05 ; Times: 5
+	Date: 2020-11-02 ; Times: 3
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-01 ; Times: 2
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-27 ; Times: 4
+	Date: 2020-11-19 ; Times: 2
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-15 ; Times: 2
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-17 ; Times: 7
+	Date: 2020-11-10 ; Times: 79
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Glaucomys sabrinus" ; Times: 2
+	Query: "scientificname:Rattus rattus" ; Times: 3
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 2
+	Query: "scientificname:Mephitis mephitis" ; Times: 4
+	Query: "scientificname:Puma concolor" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "scientificname:Sylvilagus floridanus" ; Times: 2
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "scientificname:Reithrodontomys megalotis" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus stateprovince:&#34;puebla&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "sylvilagus insonus" ; Times: 1
+	Query: "Spermophilus beldingi" ; Times: 2
+	Query: "genus:sigmodon county:&#34;imperial&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "scientificname:Didelphis virginiana" ; Times: 6
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 2
+	Query: "scientificname:Liomys irroratus" ; Times: 1
+	Query: "scientificname:Lynx rufus" ; Times: 2
+	Query: "scientificname:Mus musculus" ; Times: 4
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "scientificname:Peromyscus leucopus" ; Times: 3
+	Query: "scientificname:Eptesicus fuscus" ; Times: 1
+	Query: "Tylomys" ; Times: 1
+	Query: "scientificname:Canis latrans" ; Times: 2
+	Query: "scientificname:Urocyon cinereoargenteus" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 5
+	Query: "Spilogale putorius" ; Times: 8
+	Query: "puma concolor" ; Times: 3
+	Query: "Anoura geoffroyi" ; Times: 1
+	Query: "scientificname:Ondatra zibethicus" ; Times: 4
+	Query: "scientificname:Lepus californicus" ; Times: 2
+	Query: "specificepithet:amoenus genus:tamias institutioncode:MLZ" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "scientificname:Myotis lucifugus" ; Times: 4
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "Spermophilus tereticaudus" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "scientificname:Lasiurus borealis" ; Times: 2
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "scientificname:Peromyscus maniculatus" ; Times: 2
+	Query: "philander opossum" ; Times: 1
+	Query: "scientificname:Peromyscus melanotis" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "spilogale" ; Times: 2
+	Query: "malheur" ; Times: 1
+	Query: "scientificname:Rattus norvegicus" ; Times: 4
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 14
+	Query: "genus:microdipodops stateprovince:&#34;Oregon&#34;" ; Times: 7
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 1
+	Query: "scientificname:Sciurus niger" ; Times: 1
+	Query: "scientificname:Odocoileus virginianus" ; Times: 4
+	Query: "scientificname:Lasiurus cinereus" ; Times: 2
+	Query: "scientificname:Mustela frenata" ; Times: 4
+	Query: "genus:dasypus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+	Query: "lemmiscus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 842 download events in this period)
+Total number of records downloaded: 2055
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 50
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 3
+	Date: 2020-11-23 ; Times: 5
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-30 ; Times: 2
+	Date: 2020-11-06 ; Times: 5
+	Date: 2020-11-04 ; Times: 19
+	Date: 2020-11-05 ; Times: 13
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-12 ; Times: 3
+	Date: 2020-11-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "Spermophilus beldingi" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:Neotoma" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Spermophilus tereticaudus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "philander opossum" ; Times: 2
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "Dipodomys microps" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+
+
+End of report.
